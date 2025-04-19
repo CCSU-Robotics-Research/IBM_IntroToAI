@@ -17,7 +17,7 @@ i.	Narrow: focused on a single task like planning a day
 ii.	Broad: can handle a wider range of related tasks
 iii.	General (available in the future  estimated to exist by 2050). 
 
- 	Dark Data is information without structure, just a huge, unsorted mass of facts. Tabulation is the act of slicing and dicing data to give it a structure. Data can be classified as structure, semi-structured or unstructured. Data is raw information, and structured data can be characterized by rows and columns, etc. Dark data is qualitative and includes images, texts, customer comments, etc. Semi-structured data is the bridge between structured and unstructured data. Semi-structured data uses metadata to identify specific data characteristics and to scale data into records and pre-set fields. 80% of the data in todays world is estimated to be unstructured.
+Dark Data is information without structure, just a huge, unsorted mass of facts. Tabulation is the act of slicing and dicing data to give it a structure. Data can be classified as structure, semi-structured or unstructured. Data is raw information, and structured data can be characterized by rows and columns, etc. Dark data is qualitative and includes images, texts, customer comments, etc. Semi-structured data is the bridge between structured and unstructured data. Semi-structured data uses metadata to identify specific data characteristics and to scale data into records and pre-set fields. 80% of the data in todays world is estimated to be unstructured.
 
 # MACHINE LEARNING:
 
