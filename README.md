@@ -1,4 +1,4 @@
-# IBM_IntroToAI
+# IBM-IntroToAI
 
   Notes Prepared by Transcribing Handwritten Notes from the IBM AI Fundamentals Course:
 Available Here: https://www.ibm.com/training/badge/artificial-intelligence-fundamentals
